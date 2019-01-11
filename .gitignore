@@ -1,2 +1,17 @@
 /Algorithms
+/BillsBurgerEnhanced
+/Test
 *.cs
+/ArrayChallenge/nbproject/private/
+/ArrayChallenge/build/
+/BillsBurger/nbproject/private/
+/BillsBurger/build/
+/BillsBurgerEnhanced/nbproject/private/
+/BillsBurgerEnhanced/build/
+/MinElementChallenge/nbproject/private/
+/MinElementChallenge/build/
+/ReversedArrayChallenge/nbproject/private/
+/ReversedArrayChallenge/build/
+/ArrayListChallenge/nbproject/private/
+/ArrayListChallenge/build/
+/BankingApplicationChallenge/nbproject/private/
