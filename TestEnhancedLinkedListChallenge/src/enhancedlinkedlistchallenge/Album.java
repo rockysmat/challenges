@@ -7,13 +7,11 @@ public class Album {
     private String albumName;
     private String artistName;
     private LinkedList<Song> albums;
-    private LinkedList<Song> playlist;
 
     public Album(String albumName, String artistName) {
         this.albumName = albumName;
         this.artistName = artistName;
         this.albums = new LinkedList<>();
-        this.playlist = new LinkedList<>();
     }  
     
     public static class Song {
@@ -40,10 +38,6 @@ public class Album {
 
     public LinkedList<Song> getAlbums() {
         return albums;
-    }
-
-    public LinkedList<Song> getPlaylist() {
-        return playlist;
     }
   
 }
